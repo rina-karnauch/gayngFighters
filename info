@@ -1,0 +1,51 @@
+[
+  {
+    "firstName": "Avital",
+    "lastName": "Kamil",
+    "superPower": 0,
+    "information": "",
+    "img": "./images/avital-no-background.png"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Marshak",
+    "superPower": 0,
+    "information": "",
+    "img": "./images/sara-no-background.png"
+  },
+  {
+    "firstName": "Aya",
+    "lastName": "Rubanovich",
+    "superPower": 0,
+    "information": "",
+    "img": "./images/aya-no-background.png"
+  },
+  {
+    "firstName": "Dani",
+    "lastName": "Bikov",
+    "superPower": 0,
+    "information": "",
+    "img": "./images/dani-no-background.png"
+  },
+  {
+    "firstName": "Michael Misha",
+    "lastName": "Piven",
+    "superPower": 0,
+    "information": "",
+    "img": "./images/misha-no-background.png"
+  },
+  {
+    "firstName": "Serena",
+    "lastName": "Cale",
+    "superPower": 0,
+    "information": "",
+    "img": "./images/serena-no-background.png"
+  },
+  {
+    "firstName": "Rina",
+    "lastName": "Karnauch",
+    "superPower": 0,
+    "information": "",
+    "img": "./images/rina-no-background.png"
+  }
+]

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <script src="App.js"></script>
+    <title>gayng</title>
+</head>
+<body>
+
+<!--fix for transition-->
+<script></script>
+
+
+<div id="main-background">
+    <img class="gayng-background" src="images/gayng.png"/>
+    <div id="main-content-selection">
+        choose your fighter
+        <div class="dropdown-fighters">
+            <select id="select-fighter" onChange="showFight()">
+                <option value="hello">pick your fighter</option>
+                <!--serena-->
+                <option value="serena">captain america</option>
+                <!--avital-->
+                <option value="avital">homopohobic panther</option>
+                <!--misha-->
+                <option value="misha">hikingman</option>
+                <!--sara-->
+                <option value="sara">political widow</option>
+                <!--rina-->
+                <option value="rina">codeverina</option>
+                <!--aya-->
+                <option value="aya">X-woman</option>
+                <!--dani-->
+                <option value="dani">poleboy</option>
+            </select>
+            <script type="text/javascript">
+                document.getElementById('select-fighter').addEventListener('change', getSelection);
+            </script>
+            <div>
+                <button id="fight-btn" onclick="showInfo()"> fight</button>
+            </div>
+        </div>
+    </div>
+    <div id="information-card">
+        <div class="hero-name"> firstName lastName </div>
+        <div class="hero-superpower"> superpower </div>
+        <div class="hero-info"> with this hero you will get the ultimate fight. </div>
+
+        <button id="back-to-selection" onclick="showSelection()">back</button>
+    </div>
+
+</div>
+
+
+</body>
+</html>
