@@ -3,11 +3,21 @@ function showFight(option) {
     fightbtn.style.display = "inline-block";
 }
 
+function hideFight(option) {
+    fightbtn = document.getElementById("fight-btn");
+    fightbtn.style.display = "none";
+}
+
 function getSelection(){
     var select = document.getElementById('select-fighter');
     var option = select.options[select.selectedIndex];
 
-    showFight(option);
+    if(option.value){
+        showFight(option);
+    }
+    else{
+        hideFight(option);
+    }
 }
 
 function showInfo(){
