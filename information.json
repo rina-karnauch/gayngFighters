@@ -1,0 +1,52 @@
+[
+  {
+    "firstName": "Avital",
+    "lastName": "Kamil",
+    "superPower": "unracsit racist comments",
+    "information": "this fighter will win the battle by commenting unracist racist comments, or exactly the opposite.",
+    "img": "./images/avital-no-background.png"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Marshak",
+    "superPower": "argument winning",
+    "information": "this fighter will win any argument, even if you claim earth is round.",
+    "img": "./images/sara-no-background.png"
+  },
+  {
+    "firstName": "Aya",
+    "lastName": "Rubanovich",
+    "superPower": "her exs will haunt you",
+    "information": "this fighter will summon her crazy exs and they will haunt you down.",
+    "img": "./images/aya-no-background.png"
+  },
+  {
+    "firstName": "Dani",
+    "lastName": "Bikov",
+    "superPower": "pole dancing without poles",
+    "information": "this fighter will pole dance you off and finish you off with a smokegun shot",
+    "img": "./images/dani-no-background.png"
+  },
+  {
+    "firstName": "Michael Misha",
+    "lastName": "Piven",
+    "superPower": "enligthing fire anywhere",
+    "information": "this figther will take you on a long hike. you will lose track and get lost and die there probably.",
+    "img": "./images/misha-no-background.png"
+  },
+  {
+    "firstName": "Serena",
+    "lastName": "Cale",
+    "superPower": "advanced shooting skills",
+    "information": "this fighter is the new high sergent of the IDF. no need to explain: the ultimate fighter.",
+    "img": "./images/serena-no-background.png"
+  },
+  {
+    "firstName": "Rina",
+    "lastName": "Karnauch",
+    "superPower": "can bore you anytime anywhere",
+    "information": "this fighter will logically fight you. she will talk about code, 0 and 1s and bore you till your deathbed.",
+
+    "img": "./images/rina-no-background.png"
+  }
+]
